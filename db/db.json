@@ -1,0 +1,16 @@
+{
+	"users" : [
+		{
+			"firstname" : "Prasun",
+			"lastname" :  "Das",
+			"email" : "prasunitme@gmail.com",
+			"phone" : "9804541161"
+		},
+		{
+			"firstname" : "Dipa",
+			"lastname" :  "Mandal",
+			"email" : "dipamandal1010@gmail.com",
+			"phone" : "9804541161"
+		}
+	]
+}
